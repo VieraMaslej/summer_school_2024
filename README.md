@@ -32,5 +32,5 @@ Participants are encouraged to explore beyond the basics:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/VieraMalsej/summer-school-2024.git
+   git clone https://github.com/VieraMaslej/summer_school_2024.git
    ```
