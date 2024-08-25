@@ -1,7 +1,3 @@
-Certainly! Below is a concise and informative README template that you can use for your GitHub repository:
-
----
-
 # 🌞 Summer School 2024: Time Series Analysis and Modeling
 
 Welcome to the repository for **Summer School 2024: Time Series Analysis and Modeling**! This repository contains all the materials and code used during our session, where we explore advanced data science concepts, with a focus on time series forecasting using Python.
@@ -36,5 +32,5 @@ Participants are encouraged to explore beyond the basics:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/summer-school-2024.git
+   git clone https://github.com/VieraMalsej/summer-school-2024.git
    ```
